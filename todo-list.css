@@ -129,23 +129,3 @@ h1{
 
 }
 
-.line{
-  width: 100px;
-  height: 600px;
-  border: 200px solid #FEE715;
-  transform: rotate(45deg) translateY(-100px) translateX(-290px);
-  position: absolute;
-  top: 0;
-  left: 0;
-}
-
-
-.line-4{
-  width: 100px;
-  height: 600px;
-  border: 200px solid #FEE715;
-  transform: rotate(45deg) translateY(100px) translateX(290px);
-  position: absolute;
-  bottom: 0;
-  right: 0;
-}
